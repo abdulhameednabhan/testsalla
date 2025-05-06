@@ -996,6 +996,13 @@
                     "maxLength": 30
                 }
             ]
+        },
+        {
+            "key": "ef0794f1-beef-485e-8bc1-2e91f323197a",
+            "title": "slider",
+            "icon": "sicon-store",
+            "path": "assets-vo",
+            "fields": []
         }
     ],
     "support_url": "https://salla.com/",
